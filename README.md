@@ -1,2 +1,2 @@
 # miniframe
-使用Python3实现一个简单的基于UWSGI协议的web矿建
+使用Python3实现一个简单的基于UWSGI协议的web框架
